@@ -1,1 +1,1 @@
-# s3-sdk-ios
+# amarcdn-s4-ios-sdk
